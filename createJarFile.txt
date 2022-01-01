@@ -1,0 +1,9 @@
+1) Create Jar File
+mvn clean package
+
+in project root folder:  
+D:\daten\development\SpringBoot\workspace\QR-Generator
+
+
+2) Run Application
+mvn spring-boot:run
